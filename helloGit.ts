@@ -1,1 +1,1 @@
-console.log('hola buenas tardes, este es un nuevio deste wery')
+console.log('hola, github chinga tu madre')
